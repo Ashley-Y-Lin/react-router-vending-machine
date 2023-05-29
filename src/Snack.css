@@ -1,0 +1,9 @@
+.Snack {
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+}
+
+.snack-img {
+    margin-bottom: 10px;
+}
